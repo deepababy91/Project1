@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+/*navbar styling*/
+
+.menu-bar
+{
+    min-height:8%;
+    background-color:rgb(85, 210, 255);
+}
+
+/*Logo image width styling*/
+
+.menu-bar img {
+    width:250px;  
+  
+}
+
+/*navigation menu items color*/
+
+.nav-link
+{
+color:white;
+}
+
+/*Color hovering over navigation items*/
+
+.nav-link:hover
+{
+color:black;
+}
